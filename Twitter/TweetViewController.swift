@@ -19,7 +19,7 @@ class TweetViewController: UIViewController {
   
     
     @IBAction func cancel(_ sender: Any) {
-        dismiss(animated:true, completion: nil)
+        self.dismiss(animated:true, completion: nil)
     }
     
     @IBOutlet weak var tweetTextView: UITextView!
@@ -29,7 +29,7 @@ class TweetViewController: UIViewController {
         if (!tweetTextView.text.isEmpty){
             TwitterAPICaller.client?.postTweet(tweetString: tweetTextView.text, sucess: {
                 self.dismiss(animated: true, completion: nil)
-                print(self.tweetTextView.text ?? "none")
+                //print(self.tweetTextView.text ?? "none")
             }, failure: {(error)in
                 print("Error posting tweet \(error)")
             })
