@@ -45,10 +45,6 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://user-images.githubusercontent.com/89062545/155678348-768821bd-a31d-43ec-a172-a0d00393abd3.gif' />
-
-<img src='https://user-images.githubusercontent.com/89062545/155679861-a6d4dfcf-a7da-47e0-ba11-b9f206a3f61c.gif' />
-
-<img src='https://user-images.githubusercontent.com/89062545/155680623-07981cb1-5ccd-42c4-addb-005846677a13.gif' />
+<img src='https://user-images.githubusercontent.com/89062545/155684521-0e9f6b64-e2eb-4f1b-8813-091e9fcac32e.gif' />
 
 
