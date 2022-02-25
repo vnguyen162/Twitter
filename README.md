@@ -47,3 +47,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://user-images.githubusercontent.com/89062545/155678348-768821bd-a31d-43ec-a172-a0d00393abd3.gif' />
 
+<img src='https://user-images.githubusercontent.com/89062545/155679861-a6d4dfcf-a7da-47e0-ba11-b9f206a3f61c.gif' />
+
+
